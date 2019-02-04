@@ -1,0 +1,5 @@
+CÓDIGOS MYSQL
+
+CREATE DATABASE nome_do_bd;		//Cria um banco de dados
+DROP DATABASE nome_do_db;		//Apaga um banco de dados
+
